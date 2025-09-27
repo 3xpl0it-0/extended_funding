@@ -1,2 +1,4 @@
-# extended_funding
-funding signals from extended exchange
+# extended funding
+funding signals from extended exchange  
+
+still a work in progress
